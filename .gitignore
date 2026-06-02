@@ -1,0 +1,7 @@
+facebook_session.json
+*_session.json
+.env
+pycache/
+*.pyc
+joined_groups.json
+*.log
