@@ -47,6 +47,7 @@ This project demonstrates browser automation, session management, Telegram bot d
 git clone https://github.com/yourusername/facebook-automation-bot.git
 cd facebook-automation-bot
 pip install -r requirements.txt
+playwright install chromium
 python bot.py
 ```
 
