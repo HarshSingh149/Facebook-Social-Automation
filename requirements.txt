@@ -1,4 +1,2 @@
-python-telegram-bot==21.4
-playwright
-asyncio
-requests
+python-telegram-bot[job-queue]==20.7
+playwright==1.44.0
